@@ -9,7 +9,9 @@
   - [ICD to AIS/ISS Medical Coding Converter](https://www.youtube.com/watch?v=HofUtHS5iio&t=7s)
   - And more...
 - 📫 How to reach me:
-  - [Email](mailto:cmarche@mail.umw.edu), [LinkedIn](https://www.linkedin.com/in/charbel-marche/), tel: +1 (540) 656-3104
+  - [Email](mailto:cmarche@mail.umw.edu)
+  - [LinkedIn](https://www.linkedin.com/in/charbel-marche/)
+  - Tel: +1 (540) 656-3104
 
 <!---
 charbelmarche33/charbelmarche33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
