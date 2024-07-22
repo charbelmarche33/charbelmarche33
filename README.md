@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Charbel Marche (@charbelmarche33)!
+- 👋 Hi, my name is **[Charbel Marche](www.charbelmarche.com)** (@charbelmarche33)!
 - 🎓 I am a student physician and computer scientist completing my M.D. and M.S. in data science at the University of Virginia.
 - 👀 I’m interested in applications of software engineering, AI, and machine learning in medicine, medical research, investing, and space tech.
 - 🌱 I am a part of teams that are developing a plethora of tools, some of which I hope interest you:
